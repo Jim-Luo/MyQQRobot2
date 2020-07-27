@@ -21,10 +21,7 @@ class TulingAPI(object):
                     "text": text
                 }
             },
-            "userInfo": {
-                "apiKey": "f71ceb0de7d84bffa71a34ee34fa40c7",
-                "userId": "f71ceb0de7d84bffa71a34ee34fa40c7"
-            }
+           
         }
         # print("The things to Request is:",self.turing_url + urlencode(turing_url_data))
 
